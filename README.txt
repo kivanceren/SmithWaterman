@@ -1,1 +1,1 @@
-Smith-Waterman algortimasının JAVA ile gerçekleştirilmesi.Giriş olarak bir text dosyasından bir dizilim grubunu alır ve dizilimleri hizalar. 
+Smith-Waterman algortimasının JAVA ile gerçekleştirilmesi.Giriş olarak iki adet dizilim alır ve dizilimleri hizalar. Dizilimler kod içindedir istenirse kullanıcı girişi alacak şekilde düzeltilebilir.
